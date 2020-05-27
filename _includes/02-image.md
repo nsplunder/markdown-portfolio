@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of black cat with white feet and neck](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F424253227367567570%2F&psig=AOvVaw1XFaL4knXCrE9zkiGPUCGB&ust=1590677951589000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjwlaOn1OkCFQAAAAAdAAAAABAE)
